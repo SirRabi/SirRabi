@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SirRabi
+- 👋 Hi, I’m Alex.
 - 👀 I’m interested in ... Learn
-- 🌱 I’m currently learning ... HTLM and CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ... HTLM, CSS and JS.
+- 💞️ 
+- 📫 
 
 <!---
 SirRabi/SirRabi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
